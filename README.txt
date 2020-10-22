@@ -1,0 +1,1 @@
+// a ideia desse projeto é facilitar o cálculo da divisão de uma conta, que envolva mais de uma categoria.
